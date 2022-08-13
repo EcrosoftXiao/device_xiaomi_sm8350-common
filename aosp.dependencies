@@ -1,9 +1,9 @@
 [
   {
-    "repository" : "vendor_xiaomi_sm8350-common",
+    "repository" : "EcrosoftXiao/vendor_xiaomi_sm8350-common",
     "target_path": "vendor/xiaomi/sm8350-common",
     "branch": "twelve",
-    "remote": "pixel-devices-blobs"
+    "remote": "gitlab"
   },
   {
     "repository": "hardware_xiaomi",
